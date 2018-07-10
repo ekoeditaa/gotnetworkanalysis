@@ -1,2 +1,5 @@
-# gotnetworkanalysis
-My personal to try to find out who matters
+# GoT Network Analysis
+Network analysis for Game of Thrones character across the five books.
+
+## Acknowledgement
+Character interaction data from https://github.com/mathbeveridge/asoiaf
